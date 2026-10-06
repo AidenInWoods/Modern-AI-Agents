@@ -1,0 +1,7 @@
+.venv/
+.bootstrap-venv/
+.python/
+.uv-cache/
+__pycache__/
+.ipynb_checkpoints/
+.runtime/
